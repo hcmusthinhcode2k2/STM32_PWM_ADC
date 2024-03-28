@@ -1,2 +1,2 @@
-# STM32_PWM_ADC
- sử dụng biến trở để điều khiển led thông qua ADC,và PWM
+# STM32_PWM
+Tính toán chu kỳ để băng xung bằng PWM kích hoạt led
