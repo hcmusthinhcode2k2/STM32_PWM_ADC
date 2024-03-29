@@ -2,7 +2,8 @@
 #include <cortex_m3.h>
 #include <gpio.h>
 #include <bitband.h>
-
+#include <adc.h>
+#include <adc.c>
 #ifndef BIT7
   #define BIT0          (0x01 << 0)
   #define BIT1          (0x01 << 1)

@@ -1,14 +1,14 @@
-"E:\STM32_PWM\source\main.c"
+"E:\STM32_PWM_ADC\source\main.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
-E:\STM32_PWM\Debug\Obj\main.pbi.dep
+E:\STM32_PWM_ADC\Debug\Obj\main.pbi.dep
 -o
 main.pbi
 -I
-E:\STM32_PWM\source
+E:\STM32_PWM_ADC\source
 -I
 E:\STM32_IR_TRACKING_PROJECT\include
 -I

@@ -22,4 +22,4 @@ main.pbi: E:\STM32_IR_TRACKING_PROJECT\include\crc.h \
   E:\STM32_IR_TRACKING_PROJECT\include\common.h \
   E:\STM32_IR_TRACKING_PROJECT\include\cortex_m3.h \
   E:\STM32_IR_TRACKING_PROJECT\include\stm32f103c8t6.h \
-  E:\STM32_PWM\source\main.c
+  E:\STM32_PWM_ADC\source\main.c

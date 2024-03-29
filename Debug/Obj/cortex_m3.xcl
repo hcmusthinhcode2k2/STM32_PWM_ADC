@@ -1,14 +1,14 @@
-"E:\STM32_PWM\source\cortex_m3.c"
+"E:\STM32_PWM_ADC\source\cortex_m3.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
-E:\STM32_PWM\Debug\Obj\cortex_m3.pbi.dep
+E:\STM32_PWM_ADC\Debug\Obj\cortex_m3.pbi.dep
 -o
 cortex_m3.pbi
 -I
-E:\STM32_PWM\source
+E:\STM32_PWM_ADC\source
 -I
 E:\STM32_IR_TRACKING_PROJECT\include
 -I
